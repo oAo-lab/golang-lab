@@ -1,0 +1,7 @@
+api:
+  apiKey: "sk-xxx"
+  apiUrl: 'https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions'
+
+server:
+  host: 'localhost'
+  port: 8080
